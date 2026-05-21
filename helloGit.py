@@ -1,1 +1,1 @@
-print("Hello ahora ya en github!");
+print("Ahora ya en github!");
